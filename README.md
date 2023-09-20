@@ -1,6 +1,4 @@
-<center><span style="font-size: 24px; font-weight: 500; text-align:center">Futuristic Accordion</span></center>
-
-<img src="./git/bg.png" style="margin-top: 32px"/>
+<img src="./git/bg.png" style="margin-bottom: 32px"/>
 
 ## 📝 Descrição
 
