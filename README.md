@@ -1,6 +1,6 @@
 <center><span style="font-size: 24px; font-weight: 500;">Futuristic Accordion</span></center>
 
-<img src="https://i.ibb.co/LCsm5Zn/Captura-de-Tela-2023-09-20-a-s-20-06-53.png" style="margin-top: 32px"/>
+<img src="./git/bg.png" style="margin-top: 32px"/>
 
 ## 📝 Descrição
 
@@ -19,6 +19,10 @@ Para rodar o projeto em sua máquina basta seguir os passos abaixo:
 2. Navegue até o diretório do projeto: `cd futuristic-accordion`
 3. Instale as dependências: `yarn` ou `npm install`
 4. Inicie o projeto: `yarn dev` ou `npm run dev`
+
+## 🌎 Versão online
+
+Clique aqui para acessar: [Futuristic Accordion](https://futuristic-accordion.vercel.app/)
 
 ##
 
